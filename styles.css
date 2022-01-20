@@ -1,0 +1,23 @@
+body {
+  background-color: seashell;
+}
+
+h1 {
+  color: red;
+}
+
+a {
+  font-size: 22px;
+}
+
+#link-1 {
+  color: green;
+}
+
+#link-2 {
+  color: orange;
+}
+
+#link-3 {
+  color: brown;
+}
